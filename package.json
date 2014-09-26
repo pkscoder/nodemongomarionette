@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+	 "consolidate":"*",
+	 "express": "*",
+	 "http": "*",
+	 "mongodb":"*",
+	 "mongoose":"*",
+     "path":"*",
+	 "request":"*",
+	 "underscore":"*",
+	 "util":"*",
+      "body-parser":"*"
+  }
+}
+
